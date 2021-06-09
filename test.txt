@@ -1,265 +1,1929 @@
-考研英语单词
-erase 
-擦掉
-,
-抹掉
-,
-消除
-:erase the chalk marks 
-erect 
-竖直的
-,
-垂直的
-,
-竖起的
-:an erect tree 
-erupt (
-火山
-,
-喷泉等
-)
-喷发
-:The volcano is due to erupt any day 
-essence 
-本
-质
-,
-实质
-,
-要素
-:Being thoughtful of others is the essence of politeness 
-eternal 
-永恒的
-,
-永存的
-,
-永久的
-:eternal truths 
-evaluate 
-估价
-,
-评价
-:evaluate property 
-evaporate (
-使
-)
-蒸发
-,(
-使
-)
-挥发
-:Heats evaporate water 
-exaggerate 
-夸张
-,
-夸大
-,
-对…言过其实
-:keep to the facts and don
-’
-t exaggerate 
-exceed 
-超出
-,
-胜过
-:Her performance exceeded all the others 
-excess 
-超越
-,
-超过
-:an excess of supply over demand 
-execute 
-实行
-,
-实施
-,
-执行
-,
-履行
-:execute a plan 
-exemplify 
-例示
-,
-举例证明
-,
-是…的例证
-(
-或榜样等
-):The teacher exemplified the use of the word 
-exert 
-用力
-,
-尽力
-:exert all one
-’
-s strength 
-exhaust 
-汲空
-,
-抽完
-:exhaust a well 
-expel 
-驱逐
-,
-赶走
-:expel an invader from a country 
-expend 
-花费
-,
-消费
-(on, in):They expended all their strength in (on) trying to climb out 
-expire 
-满期
-,
-届期
-,(
-期限
-)
-终止
-:His term of office expires this year 
-explicit 
-详尽的
-,
-明确的
-:give explicit directions 
-exploit
-英勇的或冒险的行为或事迹
-:The daring of exploit of the parachutists were much admired 
-exterior 
-外部的
-,
-外面的
-,
-外表的
-:exterior decorations 
-external 
-外面的
-,
-外部的
-:external signs of a disease 
-extinct (
-火等
-)
-熄灭了的
-:an extinct cigarette(fire) 
-extinguish
-熄灭
-,
-扑灭
-:extinguish a cigarette(candle) 
-extract
-取出
-,
-提取
-:extract a confession 
-extravagant
-奢侈的
-,
-浪费的
-:be extravagant in one
-’
-s way of living 
-F 
-fabricate 
-建造
-,
-制造
-:The finest craftsmen fabricated this clock 
-facilitate
-使变得
-(
-更
-)
-容易
-,
-使便利
-:Such a port 
-would 
-facilitate 
-the passage 
-o
-f 
-oil 
-from 
-the Middle 
-East to Japan 
-fade (
-颜色
-)
-褪去
-:The color in this material will not fade 
-faint
-不清楚的
-,
-模糊的
-,
-微弱的
-:a faint idea 
-fancy
-想象力
-:Children usually have a lively fancy 
-fare
-车费
-,
-船费
-,
-飞机票价
-:full (half) fare 
-fascinate
-强烈的吸引
-,
-迷住
-,
-使神魂颠倒
-:be fascinated with history 
-fashion
-方式
-,
-样子
-:She speaks in a very strange fashion 
-favor 
-恩惠
-,
-善意的行为
-:We would esteem it a great favor if you would reply at once 
-feasible 
-可行的
-:a feasible plan(idea) 
-feeble 
-虚弱的
-,
-无力的
-:His pulse was very feeble 
-feed 
-喂养
-,
-饲养
-:feed a baby at the breast 
-figure 
-数字
-:according to official figures 
-finance 
-财政
-,
-金融
-:skill in finance 
-finite 
-有限的
-,
-有限制的
-:a finite number of facts 
-flare (
-火焰
-)
-闪耀
-,(
-摇曳不定地
-)
-燃烧
-:candle flaring in the wind 
-flash 
-闪光
-,
-闪烁
-:a flash of lighting 
-8 
+第1章
+1 a art.一
+2 abandon vt.离弃
+3 abdomen n.腹
+5 ability n.能力
+6 able a.有
+7 abnormal a.反常的
+9 abolish vt.废除
+10 abound vi.大量存在
+11 about ad.在周围
+12 above a.上述的
+13 abroad ad.到国外
+14 abrupt a.突然的
+15 absence n.缺乏
+16 absent a.缺席的
+17 absolute a.绝对的
+18 absorb vt.吸收
+19 abstract a.抽象的
+20 absurd a.荒谬的
+21 abundance n.丰富
+22 abundant a.大量
+23 abuse vt.滥用
+24 academic a.学院的
+26 accelerate v.使加速
+27 accent n.口音
+28 accept vt.接受
+29 acceptance n.接受
+30 access n.进入
+31 accessory n.附件
+32 accident n.意外遭遇
+33 accidental a.偶然的
+34 acclaim v.向
+35 accommodate vt.向
+37 accompany v.陪伴
+38 accomplish v.实现
+39 accord vt.给予
+40 accordance n.一致
+42 accordingly ad.相应地
+43 account a.叙述
+44 accountant n.会计人员
+45 accumulate vt.堆积
+46 accuracy n.准确
+47 accurate a.正确无误的
+48 accuse vt.控告
+49 accustomed a.惯常的
+50 ache vi.痛
+第2章
+1 achieve vt.实现
+2 acid n.酸
+3 acknowledge vt.承认
+5 acquaintance n.认识
+6 acquire v.获得
+7 acquisition n.取得
+8 acre n.英亩
+9 acrobat n.特技演员
+10 across prep.横过
+11 act v.表演
+12 action n.行动
+13 activate vt.启动
+14 active adj.活跃的
+15 activity n.活动
+16 actor n.男演员
+17 actress n.女演员
+18 actual a.实际的
+19 acute a.剧烈的
+20 adapt vt.使适应
+21 add vt.加
+22 addict v.使沉溺
+23 addition n.加
+24 additional a.额外的
+25 address n.住址
+26 adequate adj.充足的
+29 adjective n.形容词
+30 adjoin v.临近
+31 adjust vt.调节
+32 administer v.施行
+33 administration n.经营
+34 admire vt.钦佩
+35 admission n.允许进入
+36 admit vt.承认
+37 adolescent n.青少年
+38 adopt vt.采用
+39 adore vt.崇拜
+40 adult n.成年人
+41 advance n.前进
+42 advanced a.超前的
+43 advantage n.优点
+45 adventure n.冒险
+46 adverb n.副词
+47 adverse a.逆的
+48 advertise vt.公告
+49 advice n.劝告
+50 advisable a.可取的
+第3章
+1 advise vt.忠告
+2 advocate n.辩护者
+7 affect vt.影响
+8 affection n.爱
+9 affiliate v.使隶属
+10 affirm vt.断言
+11 affluent a.富裕的
+12 afford vt.担负得起
+13 afraid adj.害怕的
+14 after prep.在
+15 afternoon n.下午
+17 again ad.再次
+18 against prep.对着
+19 age n.年龄
+20 agency n.代理
+21 agenda n.议事日程
+22 agent n.代理人
+23 aggravate vt.加重
+24 aggressive a.侵略的
+25 agitate v.摇动
+28 agree vi.答应
+29 agreeable a.符合的
+30 agreement n.协定
+31 agriculture n.农业
+32 ahead ad.在前面
+33 Aid n.援助
+34 Aim n.目的
+35 Air n.空气
+37 aircraft n.飞机
+39 airport n.机场
+41 alarm n.惊恐
+43 alcohol n.酒精
+44 Alert a.机警的
+45 Alien n.外侨
+46 Alike a.同样的
+47 Alive a.活着的
+48 All a.全部的
+49 allege v.断言
+50 alleviate v.减轻
+第4章
+1 alliance n.同盟
+2 allocate v.分配
+3 Allow vt.允许
+4 allowance n.补贴
+5 Alloy n.合金
+6 Ally n.同盟者
+7 almost adv.几乎
+8 alone a.单独的
+9 along ad.向前
+10 alongside ad.在旁边
+11 aloud adv.出声地
+12 alphabet n.字母表
+13 already ad.已
+14 Also ad.而且
+15 Alter vt.改变
+16 alternate a.交替的
+17 alternative n.二选一
+18 although conj.尽管
+19 altitude n.高度
+20 altogether ad.完全
+22 always ad.总是
+24 amaze vt.使惊奇
+25 ambassador n.大使
+26 ambiguous a.引起歧义的
+27 ambition n.对
+28 ambitious a.有抱负的
+29 ambulance n.救护车
+30 amend vt.修改
+31 amiable a.和蔼可亲的
+32 Amid prep.在
+33 among prep.在
+34 amount n.总数
+35 ample a.充分的
+36 amplifier n.放大器
+37 amplify vt.放大
+38 amuse vt.向
+39 analogue n.类似物
+40 analogy n.类似
+44 ancestor n.祖宗
+46 ancient a.古代的
+47 and conj.和
+48 anecdote n.轶事
+49 angel n.天使
+50 anger n.愤怒
+第5章
+1 angle n.角
+2 angry a.生气的
+4 animal n.动物
+5 ankle n.足踝
+6 anniversary n.周年
+7 announce v.正式宣布
+8 annoy vt.使恼怒
+9 annual a.每年的
+10 anonymous a.匿名的
+11 another a.另一个
+12 answer vt.回答
+13 ant n.蚁
+15 anticipate vt.预料
+16 antique a.古式的
+17 anxiety n.挂念
+18 anxious a.焦虑的
+21 anyhow ad.不管怎么说
+23 anything pron.任何东西
+24 anyway ad.不管怎么说
+25 anywhere ad.无论哪里
+26 apart ad.分离
+29 apology n.道歉
+30 appal v.使惊骇
+31 apparatus n.器械
+32 apparent a.表面上的
+33 appeal vi.呼吁
+34 appear vi.出现
+35 appearance n.出现
+36 appendix n.附录
+37 appetite n.食欲
+38 applaud vt.鼓掌欢迎
+39 applause n.鼓掌
+40 apple n.苹果
+41 appliance n.电器
+42 applicable a.可应用
+43 application n.申请
+45 appoint vt.任命
+46 appointment n.约会
+47 appraisal n.对
+48 appreciate vt.为
+49 approach v.靠近
+第6章
+1 approval n.批准
+3 approximate a.近似的
+5 apt a.恰当的
+6 arbitrary a.任意的
+7 arch n.拱门
+8 architect n.建筑师
+9 architecture n.建筑
+10 area n.面积
+11 argue vi.辩论
+12 argument n.争论
+13 arise v.出现
+14 arithmetic n.算术
+15 arm n.手臂
+16 army n.军队
+17 around ad.在
+18 arouse vt.唤醒
+19 arrange v.安排
+20 array n.大量
+21 arrest n.逮捕
+22 arrival n.到达
+23 arrive vi.到达
+24 arrogant a.傲慢的
+25 arrow n.箭
+26 art n.艺术
+27 artery n.动脉
+28 article n.文章
+29 articulate a.善于表达的
+30 artificial a.人工的
+31 artist n.艺术家
+32 artistic a.艺术
+33 as ad.同样地
+34 ascend vi.渐渐上升
+35 ascertain vt.确定
+36 ash n.灰
+37 ashamed a.惭愧的
+38 ashore ad.上岸
+39 aside ad.在旁边
+40 ask vt.问
+41 asleep a.睡觉
+42 aspect n.样子
+44 assassinate vt.暗杀
+45 assault v.猛烈地攻击
+46 assemble vt.集合
+47 assembly n.集合
+48 assert vt.断言
+第7章
+1 assign vt.派给
+2 assignment n.分配
+3 assimilate vt.吸收
+4 assist vt.协助
+5 assistance n.协作
+6 assistant a.帮助的
+7 associate vt.联想
+8 association n.联盟
+9 assume vt.假装
+10 assumption n.假定
+11 assurance n.保证
+12 assure vt.使确信
+13 astonish vt.使惊讶
+14 astronaut n.太空人
+15 astronomy n.天文学
+17 athlete n.运动员
+18 atmosphere n.大气
+19 atom n.原子
+20 attach v.系
+22 attain vt.达到
+23 attempt vt.企图
+24 attend vt.出席
+25 attendance n.出席
+26 attendant n.陪从
+27 attention n.注意
+28 attitude n.态度
+30 attract vt.引起的注意
+31 attractive a.吸引人的
+34 audience n.听众
+36 audit v.审计
+37 auditorium n.观众席
+40 aunt n.姨母
+41 aural a.听觉的
+42 authentic a.真的
+43 author n.作者
+44 authority n.权力
+46 automatic a.自动
+47 automation n.自动
+48 autonomy n.自治
+49 autumn n.秋
+50 auxiliary a.辅助的
+第8章
+3 avenue n.林荫路
+4 average n.平均
+5 avert v.防止
+6 aviation n.航空
+7 avoid vt.防止
+8 await vt.等候
+9 awake a.醒着的
+10 award vt.授予
+11 aware a.知道的
+12 away ad.在远处
+13 awe n.敬畏
+14 awful a.极度的
+15 awkward a.笨拙的
+17 axis n.轴
+18 baby n.婴儿
+19 bachelor n.单身汉
+20 back a.后面的
+21 background n.背景
+22 backward a.向后的
+23 bacon n.咸猪肉
+25 bad a.坏的
+26 badge n.徽章
+27 badly ad.非常
+28 badminton n.羽毛球
+29 bag n.袋
+30 baggage n.行李
+31 bait n.饵
+32 bake v.烤
+33 balance v.称
+34 balcony n.阳台
+35 bald a.秃的
+36 ball n.球
+37 ballet n.芭蕾舞
+38 balloon n.气球
+40 ban v.取缔
+41 banana n.香蕉
+42 band n.条
+43 bandage n.绷带
+44 bang n.砰砰的声音
+45 bank n.银行
+46 bankrupt a.破产的
+47 banner n.旗
+49 bar n.条
+50 barbecue n.烤肉
+第9章
+1 barber n.理发师
+2 bare a.赤裸的
+3 barely ad.赤裸裸地
+4 bargain n.廉价货
+6 barn n.谷仓
+7 barrel n.桶
+8 barren a.贫瘠的
+9 barrier n.栅栏
+10 base n.基础
+11 baseball n.棒球
+12 basement n.建筑物的底部
+13 basic a.基本的
+14 basin n.盆
+15 basis n.基础
+16 basket n.筐
+17 basketball n.篮球
+18 bat n.球拍
+19 batch n.一批
+20 bath n.沐浴
+21 bathe v.游泳
+22 bathroom n.浴室
+23 battery n.电池
+24 battle n.战役
+25 bay n.海湾
+27 beach n.海滩
+29 bean n.豆
+30 bear n.熊
+31 beard n.胡须
+32 bearing n.轴承
+33 beast n.兽
+34 beat n.敲打
+35 beautiful a.美的
+36 beauty n.美
+37 because conj.因为
+38 become vi.变成
+39 bed n.床
+40 bee n.蜂
+41 beef n.牛肉
+42 beer n.啤酒
+44 beforehand ad.预先
+45 beg vt.请求
+47 beginning n.开始
+48 behalf n.利益
+49 behave v.举止
+第10章
+1 behind prep.在
+2 being n.生物
+3 belief n.信任
+4 believe vt.相信
+5 bell n.钟
+6 belly n.肚子
+9 below prep.在
+11 bench n.长凳
+13 beneath prep.在
+15 benefit n.利益
+17 beside prep.在
+18 besides ad.此外
+19 best a.最好的
+20 bet v.赌
+21 betray v.背叛
+22 better a.较好的
+23 between prep.在
+25 beware v.当心
+26 bewilder v.使迷惑
+27 beyond prep.在
+29 Bible n.圣经
+32 bid v.祝愿
+33 big a.大的
+34 bill n.账单
+37 bind v.捆
+38 biography n.传记
+39 biology n.生物学
+40 bird n.鸟
+41 birth n.出生
+42 birthday n.生日
+43 biscuit n.饼干
+46 bizarre adj.异乎寻常的
+47 black a.黑
+48 blackboard n.黑板
+49 blackmail n.讹诈
+50 blade n.刀刃
+第11章
+1 blame v.责备
+2 blank a.空白的
+3 blanket n.毯子
+4 blast n.一阵
+5 blaze n.火焰
+6 bleak a.荒凉的
+7 bleed v.出血
+8 blend n.混合
+9 bless v.祝福
+10 blind a.盲的
+11 block n.大块木
+12 blood n.血液
+13 bloody a.流血的
+14 bloom n.花
+15 blossom n.花
+16 blouse n.女衬衣
+17 blow vi.吹
+18 blue a.蓝色的
+19 blueprint n.蓝图
+21 blunt a.率直的
+22 blur n.模糊不清的事物
+24 board n.板
+26 boat n.小船
+27 body n.身体
+29 bold a.大胆的
+30 bolt n.螺栓
+31 bomb n.炸弹
+32 bond n.结合
+33 bone n.骨
+34 bonus n.奖金
+35 book n.书
+36 boom v.迅速发展
+38 boot n.靴
+39 booth n.电话亭
+40 border n.边界
+41 bore v.钻
+42 born a.出生的
+43 borrow vt.借
+44 bosom n.胸
+45 boss n.老板
+46 both prep.两者
+47 bother vt.打扰
+48 bottle n.瓶
+49 bottom n.底
+第12章
+2 boundary n.分界线
+4 bowel n.肠
+5 bowl n.碗
+6 bowling n.保龄球运动
+7 box n.盒
+8 boy n.男孩子
+10 brace v.使防备
+15 brand n.商标
+16 brandy n.白兰地酒
+17 brass n.黄铜
+18 brave a.勇敢的
+19 breach n.违反
+20 bread n.面包
+21 breadth n.宽度
+22 break vt.打破
+23 breakdown n.崩溃
+24 breakfast n.早餐
+25 breast n.胸膛
+26 breath n.呼吸
+27 breathe v.呼吸
+29 breeze n.微风
+30 bribe n.贿赂
+31 brick n.砖块
+32 bride n.新娘
+33 bridge n.桥
+34 brief a.简短的
+35 briefcase n.手提箱
+36 bright a.明亮的
+37 brilliant a.光辉的
+38 brim n.边缘
+39 bring v.拿来
+40 brisk a.轻快的
+41 brittle a.易碎的
+42 broad a.宽的
+44 brochure n.小册子
+45 bronze n.青铜
+46 brook n.小溪
+47 broom n.扫帚
+48 brother n.兄弟
+49 brow n.眉
+第13章
+1 browse vi.随意翻阅
+2 bruise n.青肿
+3 brush n.刷
+4 brutal a.残忍的
+5 bubble n.泡
+6 bucket n.水桶
+7 bud n.芽
+8 budget n.预算
+9 buffet n.自助餐
+10 bug n.臭虫
+11 build vt.建造
+12 building n.建筑
+13 bulb n.灯泡
+14 bulk n.体积
+15 bull n.公牛
+16 bullet n.子弹
+17 bulletin n.公报
+18 bully n.恃强欺弱者
+21 bundle n.捆
+22 burden n.担子
+23 bureau n.署
+24 bureaucracy n.官僚主义
+26 burn v.燃烧
+27 burst v.爆裂
+28 bury v.埋
+29 bus n.公共汽车
+30 bush n.灌木
+31 business n.商业
+32 busy a.忙
+33 but conj.但是
+34 butcher n.屠夫
+35 butter n.黄油
+36 butterfly n.蝴蝶
+37 button n.纽扣
+38 buy vt.买
+39 by prep.被
+41 cab n.出租车
+42 cabbage n.洋白菜
+43 cabin n.客舱
+44 cabinet n.内阁
+45 cable n.电报
+46 cafe n.咖啡馆
+47 cafeteria n.自助食堂
+48 cage n.鸟笼
+49 cake n.饼
+50 calcium n.钙
+第14章
+1 calculate v.计算
+2 calendar n.日历
+3 call vt.叫
+5 calorie n.卡路里
+6 camel n.骆驼
+7 camera n.照相机
+8 camp n.野营
+9 campaign n.战役
+12 canal n.运河
+13 cancel v.取消
+14 cancer n.癌
+15 candidate n.候选人
+16 candle n.蜡烛
+17 candy n.糖果
+18 cannon n.大炮
+19 canoe n.独木舟
+21 canvas n.帆布
+22 cap n.便帽
+23 capable a.有本领的
+24 capacity n.容量
+25 cape n.海角
+26 capital n.首都
+27 capitalism n.资本主义
+28 capsule n.胶囊
+29 captain n.首领
+30 captive n.俘虏
+32 car n.汽车
+33 carbohydrate n.碳水化合物
+34 carbon n.碳
+35 card n.卡片
+37 care n.小心
+39 careful a.小心的
+41 cargo n.船货
+42 carpenter n.木工
+43 carpet n.地毯
+45 carrier n.搬运人
+46 carrot n.胡萝卜
+47 carry v.运送
+49 cartoon n.漫画
+第15章
+1 case n.箱
+2 cash n.现金
+3 cashier n.收银员
+4 cassette n.盒子
+5 cast v.投
+6 castle n.城堡
+7 casual a.偶然的
+8 casualty n.伤亡人员
+9 cat n.猫
+11 catastrophe n.大灾难
+12 catch v.捕捉
+13 category n.种类
+15 cathedral n.大教堂
+16 Catholic a.天主教的
+17 cattle n.牛
+18 cause n.原因
+19 caution n.谨慎
+21 cave n.洞
+23 ceiling n.天花板
+24 celebrate vt.庆祝
+25 celebrity n.名人
+26 cell n.细胞
+27 cellar n.地窑
+28 cement n.水泥
+29 cemetery n.坟墓
+30 census n.人口普查
+31 cent n.分
+34 central a.中心的
+35 centre n.中心
+36 century n.世纪
+37 cereal n.加工而成的谷类食物
+38 ceremony n.典礼
+39 certain a.某
+40 certainly ad.一定
+41 certainty n.必然
+42 certificate n.证
+43 certify vt.证明
+44 chain n.链
+45 chair n.椅子
+46 chairman n.主席
+47 chalk n.粉笔
+48 challenge n.挑战
+49 chamber n.房间
+50 champagne n.香槟酒
+第16章
+1 champion n.冠军
+2 chance n.机会
+4 change n.改变
+5 channel n.海峡
+6 chaos n.混乱
+9 character n.性格
+12 charge v.索
+13 charity n.慈善
+14 charm n.吸引力
+15 chart n.图表
+16 charter v.租船
+19 cheap a.便宜的
+20 cheat v.欺骗
+21 cheek n.面颊
+23 cheese n.干酪
+25 chemical a.化学的
+26 chemist n.化学家
+27 chemistry n.化学
+29 cherish vt.抱有
+30 cherry n.樱桃
+31 chess n.棋
+32 chest n.胸腔
+33 chew v.咀嚼
+34 chicken n.鸡肉
+35 chief a.主要的
+37 childhood n.幼年
+38 chill n.寒冷
+39 chimney n.烟囱
+40 chin n.下巴
+41 china n.瓷器
+42 chip n.切屑
+43 chocolate n.巧克力
+44 choice n.选择
+45 choke v.窒息
+46 choose v.选择
+47 chop v.砍
+48 chorus n.合唱队
+49 Christ n.基督
+50 Christian n.基督教徒
+第17章
+1 Christmas n.圣诞节
+3 church n.教堂
+4 cigar n.雪茄烟
+6 cinema n.电影院
+7 circle n.圆
+8 circuit n.环行
+9 circular a.圆
+11 circumference n.圆周
+12 circus n.马戏团
+13 cite v.引用
+14 citizen n.公民
+15 city n.城市
+16 civil a.公民的
+17 civilian n.平民
+20 claim v.要求
+21 clap v.拍手
+22 clarify v.澄清
+23 clarity n.清晰
+25 clasp n.扣子
+26 class n.班级
+28 classical a.经典的
+29 classification n.分类
+30 classify v.分类
+32 classroom n.教室
+34 claw n.爪
+35 clay n.粘土
+36 clean a.清洁的
+39 clerk n.职员
+40 clever a.聪明的
+41 click n.滴答声
+42 client n.律师等的当事人
+43 cliff n.悬崖
+44 climate n.气候
+45 climax n.顶点
+48 clinic n.诊所
+49 clip v.剪
+50 cloak n.斗蓬
+第18章
+1 clock n.钟
+2 clockwise a.顺时针方向
+3 clone n.无性繁殖
+8 clothes n.衣服
+9 clothing n.服装
+10 cloud n.云
+11 cloudy a.多云的
+12 club n.俱乐部
+13 clue n.线索
+14 clumsy a.笨拙的
+15 cluster n.丛
+16 clutch v.抓住
+17 coach n.长途公共汽车
+18 coal n.煤
+19 coalition n.结合体
+20 coarse a.粗糙的
+21 coast n.海岸
+22 coat n.上衣
+23 cocaine n.可卡因
+24 cock n.公鸡
+25 code n.代码
+26 coffee n.咖啡
+27 cognitive a.认知的
+28 coherent a.一致的
+29 cohesive a.粘合性的
+30 coil v.卷
+31 coin n.硬币
+32 coincide vi.同时发生
+33 coincidence n.巧合
+34 coke n.焦炭
+35 cold a.冷的
+36 collaborate vi.协作
+38 collar n.衣领
+39 colleague n.同事
+40 collect v.收集
+41 collection n.收藏
+42 collective n.集体
+43 college n.学院
+45 collision n.碰撞
+47 colonial a.殖民地的
+48 colony n.殖民地
+50 column n.圆柱
+第19章
+1 comb n.梳子
+3 combination n.结合
+4 combine v.联合
+5 come v.来
+6 comedy n.喜剧
+7 comfort n.舒适
+8 comfortable a.舒适的
+9 comic a.喜剧的
+11 commemorate vt.纪念
+12 commence vt.开始
+13 commend v.称赞
+14 comment n.注释
+15 commerce n.商业
+16 commercial a.商业的
+17 commission n.委员会
+18 commit v.把
+19 committee n.委员会
+21 common a.普通的
+22 commonplace a.普通的
+23 commonwealth n.共和国
+24 communicate v.传达
+25 communication n.通讯
+26 communism n.共产主义
+27 community n.同一地区的全体居民
+28 commute v.乘公交车上下班
+29 compact a.紧密的
+30 companion n.同伴
+31 company n.公司
+33 comparative a.比较的
+35 comparison n.比较
+36 compartment n.卧车包房
+37 compass n.罗盘
+38 compassion n.同情
+39 compatible a.能和睦相处的
+40 compel v.强迫
+42 compensation n.补偿
+43 compete vi.比赛
+44 competent a.有能力的
+45 competition n.竞争
+46 competitive a.竞争的
+47 compile vt.编辑
+49 complaint n.抱怨
+50 complement n.补足物
+第20章
+2 confront v.使面临
+3 confuse v.使混乱
+4 confusion n.困惑
+8 conjunction n.接合
+9 connect vt.连接
+11 conquer v.征服
+12 conquest n.征服
+13 conscience n.良心
+14 conscientious a.审慎正直的
+16 consecutive a.连续的
+19 consequence n.结果
+20 consequently ad.结果
+21 conservation n.保存
+22 conservative a.保守的
+23 consider v.考虑
+24 considerable a.相当大
+25 considerate a.考虑周到的
+26 consideration n.需要考虑的事
+29 console n.控制台
+30 consolidate v.使加固
+31 conspicuous a.显眼的
+32 conspiracy n.阴谋
+33 constant a.固定的
+34 constituent n.选民
+35 constitute vt.组成
+36 constitution n.构成
+37 constrain vt.限制
+38 construct v.建设
+39 construction n.建造
+40 consult v.请教
+41 consultant n.会诊医师
+42 consume vt.消耗
+43 consumption n.消费
+45 contain v.包含
+46 container n.容器
+47 contaminate v.弄污
+48 contemplate vt.盘算
+49 contemporary a.现代的
+第21章
+1 correspond v.通信
+2 correspondence n.通信
+3 correspondent n.记者
+4 corresponding a.符合的
+5 corridor n.走廊
+7 corrupt v.贿赂
+8 cosmic a.宇宙的
+9 cost n.成本
+10 costly a.昂贵的
+12 cosy a.暖和舒服的
+13 cottage n.村舍
+14 cotton n.棉花
+15 couch n.长沙发
+18 council n.理事会
+20 count v.数
+21 counter n.柜台
+22 counterpart n.对应的人
+23 country n.国家
+24 countryside n.乡下
+27 coupon n.证明持券人有某种权利的卡片
+28 courage n.勇气
+29 course n.课程
+30 court n.法院
+31 courtesy n.谦恭有礼
+32 courtyard n.院子
+33 cousin n.堂
+34 cover v.覆盖
+35 cow n.母牛
+36 coward n.懦夫
+37 crab n.螃蟹
+38 crack n.裂纹
+39 cradle n.摇篮
+40 craft n.工艺
+41 crane n.起重机
+44 crazy a.疯狂的
+45 cream n.乳脂
+46 create v.创造
+47 creative a.有创造力的
+48 creature n.人
+49 credential n.凭证
+第22章
+1 creep v.爬
+2 crew n.全体船员
+3 cricket n.板球
+4 crime n.罪行
+5 criminal n.罪犯
+6 cripple n.跛子
+8 crisp a.脆的
+10 critic n.批评家
+11 critical a.批评的
+12 criticism n.评论性的文章
+14 crop n.作物
+15 cross n.十字
+16 crow n.乌鸦
+17 crowd n.人群
+18 crown n.王冠
+19 crucial a.至关重要的
+20 crude a.天然的
+21 cruel a.残忍的
+22 cruise v.巡航
+24 crust n.外皮
+26 crystal n.水晶
+27 cube n.立方形
+28 cucumber n.黄瓜
+30 cultivate v.耕作
+31 culture n.文化
+33 cup n.杯子
+34 cupboard n.碗柜
+35 curb n.路边
+37 curiosity n.好奇心
+38 curious a.好奇的
+40 currency n.流传
+41 current n.电流
+43 curse n.诅咒
+44 curtain n.窗帘
+45 curve n.曲线
+46 cushion n.垫子
+47 custom n.习惯
+48 customary a.习惯的
+49 customer n.顾客
+1 cyberspace n.虚拟信息空间
+2 cycle n.自行车
+3 cylinder n.圆筒
+4 daily a.每日的
+5 dairy n.牛奶场
+6 dam n.水坝
+8 damn int.该死
+9 damp n.潮湿
+10 dance n.舞
+11 danger n.危险
+12 dangerous a.危险的
+13 dare v.敢
+14 dark a.黑暗的
+15 darling n.心爱的人
+19 date n.日期
+20 daughter n.女儿
+21 dawn n.黎明
+22 day n.天
+23 daylight n.日光
+24 daytime n.白天
+25 dazzle v.使惊奇
+26 dead a.死的
+27 deadline n.最后期限
+28 deadly a.致命的
+29 deaf a.聋的
+30 deal v.处理
+31 dealer n.商人
+33 dear a.昂贵的
+34 death n.死
+36 debt n.债
+37 decade n.十年
+39 deceit n.欺骗
+40 deceive v.欺骗
+41 December n.十二月
+42 decent a.体面的
+43 decide v.决定
+44 decimal a.十进的
+45 decision n.决定
+46 decisive a.决定性的
+47 deck n.甲板
+48 declaration n.宣言
+49 declare v.宣布
+50 decline v.下降
+第23章
+1 decorate v.装饰
+2 decrease n.减少
+3 dedicate vt.奉献
+5 deduct vt.扣除
+6 deed n.行为
+7 deem v.认为
+8 deep a.深的
+9 deer n.鹿
+10 defeat n.击败
+12 defect n.过失
+13 defend v.防守
+14 deficiency n.缺乏
+15 deficit n.赤字
+16 define v.给
+17 definite a.明确的
+18 definition n.定义
+20 degenerate v.衰退
+21 degree n.程度
+23 delegate n.代表
+24 delete vt.删除
+25 deliberate a.深思熟虑的
+26 delicate a.纤弱的
+27 delicious a.美味的
+28 delight n.快乐
+29 deliver v.交付
+30 delivery n.递送
+32 democracy n.民主
+33 democratic a.民主的
+34 demonstrate v.论证
+35 denial n.否认
+36 denote vt.表示
+37 denounce vt.公开指责
+38 dense a.浓厚的
+39 density n.密集
+40 dental a.牙齿的
+41 dentist n.牙医
+42 deny v.否认
+43 depart vi.离开
+44 department n.部
+45 departure n.离开
+47 dependent a.依靠的
+48 depict v.描绘
+49 deposit v.存放
+50 depress v.压抑
+1 deprive vt.剥夺
+2 depth n.深
+3 deputy n.代理人
+4 derive v.取得
+5 descend v.下来
+6 descendant n.子孙
+7 descent n.下降
+8 describe v.描述
+9 description n.描写
+10 desert n.沙漠
+11 deserve v.应受
+12 design v.设计
+13 designate v.指明
+14 desirable a.值得做的
+16 desk n.书桌
+17 desolate a.荒凉的
+18 despair n.绝望
+20 desperate a.不顾一切的
+21 despise v.轻视
+22 despite prep.不管
+23 dessert n.正餐后的水果或甜食
+24 destination n.目的地
+25 destiny n.命运
+26 destroy v.破坏
+27 destruction n.毁坏
+28 destructive a.破坏性
+29 detach vt.分开
+30 detail n.细节
+31 detain v.耽搁
+32 detect v.察觉
+33 detective n.侦探
+34 detector n.发现者
+36 determine v.决心
+37 develop v.发展
+39 device n.装置
+40 devil n.魔鬼
+41 devise vt.设计
+43 dew n.露水
+44 diagnose vt.诊断
+45 diagram n.图表
+46 dial n.钟
+47 dialect n.方言
+49 diameter n.直径
+50 diamond n.金钢石
+第24章
+1 diary n.日记
+2 dictate v.口授
+3 dictation n.听写
+4 dictionary n.词典
+5 die vi.死
+6 diet n.饮食
+8 difference n.差别
+9 different a.差异的
+10 differentiate v.区分
+11 difficult a.困难的
+12 difficulty n.困难
+13 diffuse v.扩散
+14 dig v.挖
+15 digest vt.消化
+16 digital a.数字的
+19 diligent a.勤奋的
+20 dilute vt.稀释
+21 dim a.暗淡的
+22 dimension n.尺寸
+23 diminish v.缩小
+24 dine v.吃饭
+25 dinner n.正餐
+27 diploma n.毕业文凭
+28 diplomatic a.外交的
+30 direction n.方向
+31 directly ad.直接地
+32 director n.指导者
+33 directory n.人名地址录
+34 dirt n.污物
+35 dirty a.弄脏的
+36 disable vt.使残废
+37 disappear v.不见
+38 disappoint vt.失望
+39 disaster n.灾难
+40 disastrous a.灾难性的
+42 discard vt.丢弃
+43 discern v.认出
+45 discipline n.纪律
+46 disclose v.揭示
+47 discount n.折扣
+48 discourage v.使泄气
+49 discourse n.论文
+50 discover v.发现
+1 discovery n.发现
+3 discrepancy n.相差
+4 discriminate v.区别
+5 discuss vt.讨论
+6 disease n.疾病
+7 disgrace n.失宠
+9 disgust n.厌恶
+10 dish n.碟子
+13 dismiss v.免职
+14 disorder n.混乱
+16 displace v.移置
+18 disposal n.处理
+20 disposition n.排列
+21 dispute n.争论
+22 disregard vt.不理会
+23 disrupt vt.使混乱
+24 dissipate v.驱散
+26 distance n.距离
+27 distant a.远的
+28 distill vt.蒸馏
+29 distinct a.清楚的
+30 distinction n.区别
+32 distort v.弄歪
+33 distract v.分散
+34 distress n.苦恼
+35 distribute v.分发
+36 district n.地区
+37 disturb v.扰乱
+38 disturbance n.动乱
+39 ditch n.沟
+41 diverse a.多种多样的
+42 diversion n.转向
+43 divert vt.使转向
+44 divide v.分
+45 dividend n.红利
+46 divine a.神的
+47 division n.分
+49 dizzy a.头晕目眩的
+第25章
+1 dock n.船坞
+2 doctor n.医生
+3 doctorate n.博士学位
+4 document n.公文
+5 documentary a.文献的
+6 dog n.狗
+7 doll n.玩偶
+10 dome n.圆屋顶
+11 domestic a.家里的
+12 dominant a.支配的
+13 dominate v.支配
+14 donate vt.损赠
+15 donkey n.驴子
+16 doom n.厄运
+17 door n.门
+18 doorway n.门口
+20 dose n.剂量
+21 dot n.点
+23 dove n.鸽子
+24 down ad.下
+25 downstairs ad.在楼下
+26 downtown ad.在城市的商业区
+27 downward a.向下的
+29 dozen n.一打
+30 draft n.草稿
+31 drag v.拖
+32 dragon n.龙
+33 drain n.排水沟
+34 drama n.剧本
+35 dramatic a.戏剧的
+36 drastic a.激烈的
+37 draw v.拉
+38 drawback n.欠缺
+39 drawer n.抽屉
+40 drawing n.绘图
+43 dress n.服装
+45 drill v.练习
+47 drip v.滴下
+48 drive v.开
+49 driver n.驾驶员
+50 drop n.滴
+1 drought n.旱灾
+2 drown v.溺死
+3 drug n.药物
+4 drum n.鼓
+5 drunk a.醉酒的
+6 dry a.干
+7 dubious a.怀疑的
+8 duck n.鸭
+10 dull a.单调的
+11 dumb a.哑的
+12 dump v.倾倒
+13 duplicate n.复制品
+14 durable a.持久的
+15 duration n.持久
+16 during prep.在
+17 dusk n.薄暮
+18 dust n.灰尘
+19 duty n.义务
+20 dwarf n.矮子
+21 dwell v.住
+22 dwelling n.住宅
+23 dye n.染料
+24 dynamic a.动力的
+25 dynasty n.王朝
+28 eagle n.鹰
+29 ear n.耳
+30 early a.早的
+31 earn v.赚得
+32 earnest a.热心的
+33 earth n.地球
+34 earthquake n.地震
+35 ease v.减轻
+36 east n.东
+37 Easter n.复活节
+38 eastern a.东方的
+39 easy a.容易的
+40 eat vt.吃
+41 ebb vi.衰退
+42 eccentric a.古怪的
+44 eclipse n.日食
+45 ecology n.生态学
+46 economic a.经济
+47 economical a.节约的
+48 economics n.经济学
+49 economy n.节约
+50 edge n.边
+第26章
+1 edible a.可食用的
+2 edit v.编辑
+3 edition n.版
+4 editor n.编辑
+5 editorial n.社论
+6 educate v.教育
+7 education n.教育
+8 effect n.结果
+9 effective a.有效的
+10 efficiency n.效率
+11 efficient a.有效的
+12 effort n.努力
+13 egg n.蛋
+14 ego n.自我
+15 eight num.八
+16 eighteen num.十八
+18 either ad.也
+19 eject v.喷射
+22 elastic a.弹性的
+23 elbow n.肘
+24 elder a.年长的
+25 elderly a.较老的
+26 elect v.选举
+27 electric a.电的
+28 electrical a.电的
+29 electrician n.电学家
+30 electricity n.电
+31 electron n.电子
+32 electronic a.电子的
+33 elegant a.优雅的
+34 element n.元素
+35 elementary a.初步的
+37 elevate vt.举起
+38 elevator n.电梯
+39 eleven num.十一
+40 eligible a.符合条件的
+41 eliminate vt.除去
+43 eloquent a.雄辩的
+44 else ad.其它
+45 elsewhere ad.在别处
+48 embarrass vt.使困窘
+49 embassy n.大使馆
+50 embed vt.把
+1 embed vt.把
+2 embody vt.具体表达
+3 embrace v.拥抱
+4 emerge vt.显现
+5 emergency n.紧急情况
+7 eminent a.显赫的
+8 emit vt.发出
+9 emotion n.情绪
+10 emperor n.皇帝
+11 emphasis n.强调
+13 empire n.帝国
+14 empirical a.凭经验
+16 employee n.雇工
+17 employer n.雇主
+18 employment n.雇用
+19 empty a.空的
+20 enable v.使能够
+21 enclose v.围住
+22 enclosure n.围住
+24 encourage v.鼓励
+26 end n.末端
+28 ending n.结尾
+29 endow vt.资助
+30 endurance n.忍耐
+31 endure v.忍受
+32 enemy n.敌人
+33 energetic a.精力旺盛的
+34 energy n.活力
+35 enforce v.实施
+37 engagement n.约会
+38 engine n.发动机
+39 engineer n.工程师
+40 engineering n.工程学
+41 enhance v.提高
+42 enjoy vt.享受
+43 enlarge vt.扩大
+44 enlighten v.启发
+45 enormous a.巨大的
+48 enrich v.使富足
+50 ensure v.确保
+51 entail vt.使承担
+第27章
+1 enter vt.进入
+2 enterprise n.事业
+3 entertain v.招待
+4 entertainment n.招待
+5 enthusiasm n.热情
+6 enthusiastic a.热情的
+7 entire a.完全的
+8 entitle v.给以权利
+9 entity n.实体
+10 entrance n.入口
+12 entry n.进入
+13 envelope n.信封
+14 environment n.环境
+15 envisage v.想象
+17 epidemic a.流行性的
+18 episode n.一段情节
+19 epoch n.新纪元
+20 equal a.相等的
+21 equality n.同等
+23 equator n.赤道
+25 equipment n.设备
+27 era n.时代
+28 erase v.擦掉
+29 erect v.树立
+30 erosion n.腐蚀
+31 erroneous a.错误的
+32 error n.错误
+35 escape n.逃跑
+36 escort vt.护送
+37 especially ad.特别
+38 essay n.文章
+39 essence n.本质
+40 essential a.本质的
+41 establish v.建立
+42 establishment n.建立
+43 estate n.房地产
+44 esteem n.尊敬
+46 eternal n.永久的
+47 ethnic a.种族的
+48 evacuate vt.撤离
+49 evade vt.逃避
+50 evaluate v.估价
+1 evaporate v.蒸发
+3 even ad.甚至
+4 evening n.傍晚
+5 event n.事件
+6 eventually ad.终于
+7 ever ad.曾经
+8 every a.每一个的
+10 everyday adj.每日的
+12 everything pron.每件事
+13 everywhere ad.到处
+14 evidence n.明显
+15 evident a.明显的
+16 evil a.邪恶的
+17 evoke vt.唤起
+18 evolution n.进化
+20 exact a.确切的
+21 exaggerate v.夸大
+23 examine v.检查
+24 example n.例子
+25 exceed v.超过
+26 exceedingly ad.极端地
+27 excel vi.胜过其他
+28 excellent a.卓越的
+29 except prep.除
+30 exception n.例外
+31 exceptional a.例外的
+33 excess a.过量的
+34 excessive a.过多的
+36 excite v.刺激
+37 excitement n.刺激
+38 exciting a.令人兴奋的
+39 exclaim v.呼喊
+40 exclude v.拒绝
+41 exclusive a.独占的
+42 excursion n.短途旅行
+43 excuse v.原谅
+44 execute v.实行
+45 executive n.总经理
+46 exemplify v.举例证明
+47 exempt a.免除的
+48 exercise n.练习
+49 exert v.尽
+50 exhaust v.使筋疲力尽
+第28章
+1 exhibit v.展出
+2 exhibition n.展览会
+3 exile n.流放
+4 exist v.存在
+5 existence n.存在
+6 exit n.出口
+7 exotic a.奇异的
+9 expansion n.扩张
+10 expect v.预期
+11 expectation n.预期
+12 expedition n.远征
+13 expel v.把
+14 expend v.消费
+15 expenditure n.花费
+16 expense n.花费
+17 expensive a.花费的
+19 experiment n.实验
+20 experimental a.实验
+21 expert n.专家
+22 expertise n.专门知识
+23 expire v.期满
+24 explain v.解释
+25 explanation n.解释
+26 explicit a.详述的
+28 exploit v.开拓
+29 explore v.勘探
+30 explosion n.爆炸
+31 explosive a.爆炸
+34 exposure n.暴露
+35 express v.表达
+36 expression n.表达
+37 exquisite a.优美的
+38 extend v.延长
+39 extension n.延长
+40 extensive a.广大的
+41 extent n.广度
+42 exterior a.外部的
+43 external a.外部的
+44 extinct a.灭绝的
+45 extinguish v.熄灭
+46 extra a.额外的
+48 extraordinary a.非常的
+49 extravagant a.奢侈的
+50 extreme a.末端的
+1 eye n.眼
+2 eyebrow n.眉毛
+3 eyesight n.视力
+4 fable n.寓言
+5 fabric n.织物
+6 fabricate v.捏造
+7 fabulous a.极好的
+8 face n.脸
+9 facilitate v.使变得
+10 facility n.灵巧
+11 fact n.事实
+12 factor n.因素
+13 factory n.工厂
+14 faculty n.才能
+15 fade v.褪色
+16 fail v.失败
+17 failure n.失败
+18 faint a.微弱的
+19 fair a.公平的
+20 fairly ad.公正地
+21 fairy a.幻想中的
+22 faith n.信任
+23 faithful a.守信的
+24 fake n.假货
+25 fall v.跌倒
+26 false a.谬误的
+27 fame n.名声
+28 familiar a.熟悉的
+29 family n.家
+30 famine n.饥荒
+31 famous a.著名的
+32 fan n.扇子
+33 fancy n.爱好
+35 fantasy n.幻想
+37 fare n.车费
+38 farewell int.再会
+39 farm n.农场
+40 farmer n.农民
+41 farther ad.更远地
+42 fascinate v.迷住
+43 fashion n.流行式样
+44 fashionable a.流行的
+45 fast a.快的
+46 fasten v.扎牢
+47 fat a.多脂肪的
+48 fatal a.致命的
+49 fate n.命运
+50 father n.父亲
+第29章
+2 fault n.过失
+3 faulty a.有错误的
+8 fear n.害怕
+9 fearful a.可怕的
+10 feasible a.可行的
+11 feast n.节日
+12 feat n.功绩
+13 feather n.羽毛
+14 feature n.特征
+15 February n.二月
+16 federal a.联邦的
+17 federation n.同盟
+18 fee n.费
+19 feeble a.虚弱的
+21 feedback n.反馈
+22 feel v.触
+23 feeling n.感情
+24 fell v.击倒
+25 fellow n.人
+26 fellowship n.伙伴关系
+27 female n.女性
+28 feminine a.女性的
+29 fence n.篱笆
+30 ferry n.摆渡
+31 fertile a.肥沃的
+33 festival n.节日
+34 fetch v.取来
+35 feudal a.封建的
+36 fever n.发热
+39 fiction n.虚构
+40 field n.田野
+41 fierce a.凶猛的
+42 fifteen num.十五
+43 fifty num.五十
+45 figure n.体形
+46 file n.锉刀
+48 film n.电影
+49 filter n.滤器
+50 final a.最终的
+1 finally ad.最后
+2 finance n.财政
+3 financial a.财政的
+5 finding n.发现
+6 fine a.晴朗的
+7 finger n.手指
+8 finish n.完成
+9 finite a.有限的
+10 fire n.火
+11 fireman n.消防队员
+12 fireplace n.壁炉
+13 firm a.坚固的
+16 fisherman n.渔夫
+17 fist n.拳头
+19 fitting a.适当的
+20 five num.五
+22 fixture n.固定设备
+23 flag n.旗
+24 flame n.火焰
+25 flap n.垂下物
+28 flat a.平坦的
+29 flatter vt.奉承
+31 flaw n.裂缝
+32 flee v.逃走
+33 fleet n.舰队
+34 flesh n.肉
+35 flexible a.柔韧的
+36 flight n.飞翔
+38 float n.飘浮
+40 flood n.洪水
+41 floor n.地板
+42 flour n.面粉
+44 flow v.流
+45 flower n.花
+48 fluent a.流利的
+49 fluid a.流动的
+50 flush n.脸红
+第30章
+1 fly n.飞行
+3 focus n.焦点
+4 fog n.雾气
+5 fold v.折叠
+6 folk n.人们
+7 follow v.跟随
+8 following a.下列的
+10 food n.食物
+11 fool n.傻子
+12 foolish a.愚笨的
+14 football n.足球
+15 footstep n.脚步
+16 for prep.为了
+17 forbid v.禁止
+18 force n.力量
+19 fore ad.在前面
+21 forehead n.前额
+22 foreign a.外国的
+23 foreigner n.外国人
+24 foremost a.最先的
+25 foresee v.预见
+26 forest n.森林
+28 forge v.锻造
+29 forget v.忘记
+30 forgive v.原谅
+31 fork n.叉
+32 form n.形状
+33 formal a.正式的
+35 formation n.形成
+36 former a.以前的
+37 formidable a.强大的
+40 forth ad.向前
+41 forthcoming a.即将到来的
+42 fortnight n.两星期
+43 fortunate a.幸运的
+44 fortune n.运气
+46 forum n.论坛
+48 fossil n.化石
+49 foster vt.养育
+50 foul a.污秽的
+1 found vt.建立
+2 foundation n.基础
+3 fountain n.泉水
+4 four num.四
+5 fourteen num.十四
+6 fox n.狐狸
+7 fraction n.碎片
+8 fracture n.裂缝
+9 fragile a.易碎的
+10 fragment n.碎片
+11 fragrant a.香的
+12 frame n.框架
+13 framework n.构架
+14 frank a.坦白的
+15 fraud n.欺诈
+16 free a.自由的
+17 freedom n.自由
+18 freeze v.使结冰
+19 freight n.货物
+20 frequency n.频率
+21 frequent a.时常发生的
+22 fresh a.新鲜的
+23 friction n.磨擦
+24 Friday n.星期五
+26 friend n.朋友
+27 friendly a.友好的
+28 friendship n.友谊
+29 fright n.恐怖
+30 frighten v.使惊恐
+31 fringe n.边缘
+32 frog n.蛙
+33 from prep.从
+34 front a.前面的
+35 frontier n.国境
+36 frost n.霜
+37 frown v.皱眉
+38 fruit n.水果
+39 fruitful a.多产的
+40 frustrate vt.挫败
+41 fry v.油煎
+42 fuel n.燃料
+46 fun n.玩笑
+47 function n.功能
+48 fund n.资金
+49 fundamental a.基础的
+50 funeral n.丧葬
+第31章
+1 fly n.飞行
+3 focus n.焦点
+4 fog n.雾气
+5 fold v.折叠
+6 folk n.人们
+7 follow v.跟随
+8 following a.下列的
+10 food n.食物
+11 fool n.傻子
+12 foolish a.愚笨的
+14 football n.足球
+15 footstep n.脚步
+16 for prep.为了
+17 forbid v.禁止
+18 force n.力量
+19 fore ad.在前面
+21 forehead n.前额
+22 foreign a.外国的
+23 foreigner n.外国人
+24 foremost a.最先的
+25 foresee v.预见
+26 forest n.森林
+28 forge v.锻造
+29 forget v.忘记
+30 forgive v.原谅
+31 fork n.叉
+32 form n.形状
+33 formal a.正式的
+35 formation n.形成
+36 former a.以前的
+37 formidable a.强大的
+40 forth ad.向前
+41 forthcoming a.即将到来的
+42 fortnight n.两星期
+43 fortunate a.幸运的
+44 fortune n.运气
+46 forum n.论坛
+48 fossil n.化石
+49 foster vt.养育
+50 foul a.污秽的
+1 found vt.建立
+2 foundation n.基础
+3 fountain n.泉水
+4 four num.四
+5 fourteen num.十四
+6 fox n.狐狸
+7 fraction n.碎片
+8 fracture n.裂缝
+9 fragile a.易碎的
+10 fragment n.碎片
+11 fragrant a.香的
+12 frame n.框架
+13 framework n.构架
+14 frank a.坦白的
+15 fraud n.欺诈
+16 free a.自由的
+17 freedom n.自由
+18 freeze v.使结冰
+19 freight n.货物
+20 frequency n.频率
+21 frequent a.时常发生的
+22 fresh a.新鲜的
+23 friction n.磨擦
+24 Friday n.星期五
+26 friend n.朋友
+27 friendly a.友好的
+28 friendship n.友谊
+29 fright n.恐怖
+30 frighten v.使惊恐
+31 fringe n.边缘
+32 frog n.蛙
+33 from prep.从
+34 front a.前面的
+35 frontier n.国境
+36 frost n.霜
+37 frown v.皱眉
+38 fruit n.水果
+39 fruitful a.多产的
+40 frustrate vt.挫败
+41 fry v.油煎
+42 fuel n.燃料
+46 fun n.玩笑
+47 function n.功能
+48 fund n.资金
+49 fundamental a.基础的
+50 funeral n.丧葬
+第32章
+1 funny a.滑稽的
+2 fur n.毛
+3 furious a.狂怒的
+4 furnace n.炉子
+5 furnish v.供应
+6 furniture n.家具
+8 furthermore ad.而且
+9 fuse n.保险丝
+11 futile a.无效的
+12 future n.将来
+13 gain v.获得
+14 galaxy n.星系
+15 gallery n.长廊
+16 gallon n.加仑
+19 game n.游戏
+20 gang n.一帮
+22 gap n.缺口
+23 garage n.车库
+24 garbage n.垃圾
+26 garlic n.蒜
+28 gas n.气体
+30 gasp n.喘息
+31 gate n.大门
+32 gather v.聚集
+33 gauge n.标准尺寸
+34 gay a.快乐的
+36 gear n.齿轮
+38 gene n.基因
+39 general a.一般的
+41 generate vt.产生
+42 generation n.产生
+43 generator n.发电机
+44 generous a.宽宏大量的
+45 genetic a.遗传
+46 genius n.天才
+47 gentle a.和蔼的
+48 gentleman n.绅士
+49 gently ad.文雅地
+50 genuine a.真正的
+1 geography n.地理
+2 geology n.地质
+3 geometry n.几何
+4 germ n.微生物
+5 gesture n.姿势
+6 get v.获得
+7 ghost n.鬼魂
+8 giant n.巨人
+9 gift n.礼品
+10 gigantic a.巨大的
+12 girl n.少女
+13 give v.给
+14 glad a.高兴的
+17 glare vi.怒目而视
+18 glass n.玻璃
+21 glitter n.光辉
+22 global a.球形的
+23 globe n.球体
+24 gloomy a.阴暗的
+25 glorious a.壮丽的
+26 glory n.光荣
+27 glove n.手套
+28 glow v.发热
+29 glue n.胶
+30 go v.去
+31 goal n.目的
+32 goat n.山羊
+33 god n.上帝
+34 gold n.金
+35 golden a.金黄色的
+36 golf n.高尔夫球
+37 good a.好的
+39 goodness n.善良
+42 gorgeous a.华丽的
+44 govern v.统治
+45 government n.政府
+46 governor n.统治者
+47 gown n.长袍
+49 grace n.优美
+50 graceful a.优美的
+第33章
+1 gracious a.亲切的
+2 grade n.等级
+3 gradual a.逐渐的
+4 graduate n.大学毕业生
+5 grain n.谷物
+7 grammar n.语法
+8 grand a.盛大的
+9 grandmother n.祖母
+10 grant v.同意
+11 grape n.葡萄
+12 graph n.图表
+13 graphic a.绘画似的
+15 grass n.草
+17 gratitude n.感激
+18 grave n.坟墓
+19 gravity n.重力
+20 graze vi.吃青草
+21 grease n.动物脂
+22 great a.伟大的
+23 greedy a.贪吃的
+24 green a.绿色的
+25 greenhouse n.温室
+26 greet v.致敬
+27 greeting n.问候
+29 grief n.悲伤
+30 grieve v.使悲伤
+31 grim a.严酷的
+33 grind v.磨
+36 grocer n.食品商
+38 gross a.总的
+39 ground n.地
+40 group n.群
+41 grow v.生长
+43 growth n.生长
+44 guarantee n.保证
+47 guest n.客人
+48 guidance n.引导
+49 guide n.领路人
+50 guideline n.指导方针
+1 guilt n.罪过
+3 guitar n.吉他
+4 gulf n.海湾
+5 gum n.树胶
+6 gun n.枪
+8 guy n.家伙
+10 habit n.习惯
+12 hail v.下雹
+13 hair n.毛发
+14 half n.半
+15 hall n.礼堂
+16 halt n.止步
+17 ham n.火腿
+18 hamburger n.汉堡包
+19 hammer n.铁锤
+20 hamper v.妨碍
+21 hand n.手
+22 handbook n.手册
+23 handful n.一把
+24 handicap v.妨碍
+25 handkerchief n.手帕
+26 handle n.柄
+27 handsome a.漂亮的
+28 handwriting n.笔迹
+29 handy a.手边的
+30 hang v.悬挂
+32 happy a.快乐的
+33 harassment n.骚扰
+35 hard a.坚硬的
+37 hardly ad.几乎不
+38 hardship n.艰难
+39 hardware n.五金
+41 harmony n.协调
+42 harness v.治理
+43 harsh a.粗糙的
+44 harvest n.收获
+45 haste n.匆忙
+46 hasty a.匆忙的
+47 hat n.帽子
+48 hatch v.孵
+49 hate v.恨
+50 hatred n.憎恨
+第34章
+1 haul v.拖曳
+2 have v.有
+3 hawk n.鹰
+4 hay n.干草
+5 hazard n.危险
+6 he pron.他
+7 head n.头
+8 headache n.头痛
+9 heading n.标题
+10 headline n.大字标题
+11 headmaster n.校长

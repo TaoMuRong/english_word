@@ -7,7 +7,7 @@ headers = {
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36'
 }
 #创建csv文件
-f = open('words.csv','wt',newline='')
+f = open('test.csv','wt',newline='')
 writer = csv.writer(f)
 #写入表头
 writer.writerow(('words','chs'))

@@ -1,8 +1,11 @@
+from Vsual.vsual import chinaMap
 from pandas import DataFrame
 from pandas import read_table
 from pandas import read_csv
 import pandas
 import numpy
+import sys
+sys.path.append('../Vsual/vsual.py')
 
 collectTxt = read_table('../Collect/collect.txt',sep="\t",header=0)
 collectCsv = read_csv('../Collect/collect.csv',sep=',',encoding='utf8',header=0,names=['单词','释义'])
@@ -56,4 +59,6 @@ maxWord = initial.max()
 
 # 首字母为a的单词最少
 minWord = initial.min()
+
+chinaMap(direction)
 

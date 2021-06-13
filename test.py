@@ -1,5 +1,9 @@
 import numpy as np
+from pandas import read_csv
 
-M = np.array([[4,6,8,9],[8,5,4,2],[3,6,5,4]])
-for col in range(M.shape[1]):
-    print(M[:, col])
+direction = read_csv('test.csv',sep=',',encoding='utf8',header=0,names=['地区','报考人数'],index_col="报考人数")
+
+y = direction.index
+y = np.array(y)
+x = np.array(direction).T
+print(x.tolist())

@@ -1,4 +1,4 @@
-from Vsual.vsual import chinaMap
+from Vsual.vsual import chinaMap, barPicture, wordCloud
 from pandas import DataFrame
 from pandas import read_table
 from pandas import read_csv
@@ -60,5 +60,11 @@ maxWord = initial.max()
 # 首字母为a的单词最少
 minWord = initial.min()
 
+# 调用生成考研人数省份分布图
 chinaMap(direction)
 
+# 调用单词首字母柱状图
+barPicture(initial)
+
+# 调用生成词云图方法(未完成)
+# wordCloud(collectCsv)
